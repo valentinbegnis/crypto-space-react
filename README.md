@@ -11,7 +11,7 @@ will keep you up to date with the latest crypto news.
 ## Technologies used  
 
 - React
-- Redux 
+- Redux-toolkit
 - Ant Design
 - Chart.js
 - Coinranking API
